@@ -1,8 +1,12 @@
+import Map from "./Map";
 import "./App.css";
 
 function App() {
 	return (
-		<p>map test</p>
+		<>
+			<p>map test</p>
+			<Map />
+		</>
 	);
 }
 
